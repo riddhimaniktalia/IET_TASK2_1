@@ -1,0 +1,68 @@
+body{
+  overflow-y: scroll;
+overflow-x: hidden;
+}
+.redwine1 {
+  height: 90px;
+  width: 150px;
+  opacity: 100%;
+}
+
+.navbar {
+  opacity: 100%;
+  background-color: #FFFFFF;
+  font-family: 'Berkshire Swash', cursive;
+}
+
+.R-dine {
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 50px;
+  color: #722F37;
+  margin-bottom: 0px;
+}
+
+.nav-link {
+  font-size: 25px;
+  color: #722F37;
+  margin-bottom: 0px;
+}
+.background{
+  margin-top: 0px;
+  height: 753px;
+  width: 1519px;
+}
+.card-deck {
+  margin-right: 35px;
+  margin-left: 35px;
+  font-family: 'Crimson Text', serif;
+}
+.card-img-top{
+  height: 300px;
+}
+.card{
+  transition: all .2s ease-in-out;
+}
+.card:hover{
+  transform: scale(1.1);
+}
+.card-title{
+  font-weight: bold;
+  text-align: center;
+}
+.contact-us-name{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 50px;
+  color: #722F37;
+  float: right;
+}
+.contact-us-address{
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 22px;
+  color: #b61547;
+  float: right;
+}
+.redwine{
+  height: 100px;
+  width: 150px;
+  float: right;
+}

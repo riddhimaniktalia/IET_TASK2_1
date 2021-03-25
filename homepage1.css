@@ -1,0 +1,134 @@
+body{
+  overflow-y: scroll;
+overflow-x: hidden;
+}
+.redwine1 {
+  height: 90px;
+  width: 150px;
+  opacity: 100%;
+}
+
+.navbar {
+  opacity: 100%;
+  background-color: #FFFFFF;
+  font-family: 'Berkshire Swash', cursive;
+}
+
+.R-dine {
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 50px;
+  color: #722F37;
+  margin-bottom: 0px;
+}
+
+.nav-link {
+  font-size: 25px;
+  color: #722F37;
+  margin-bottom: 0px;
+}
+.subheading{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 25px;
+  color: #722F37;
+  margin-bottom: 0px;
+}
+.R-dine-heading {
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 50px;
+  color: #722F37;
+  text-align: center;
+  margin-bottom: 0px;
+}
+.subheading{
+  margin-left: 50%;
+}
+table{
+  margin: 0px 100px 0px 100px;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 22px;
+  color: #b61547;
+}
+td{
+  padding: 30px;
+}
+.image-information{
+  height: 400px;
+  width:400px;
+  box-shadow: 10px 10px 8px #888888;
+}
+.clock{
+  height: 40px;
+}
+.card-img-top{
+  height: 250px;
+}
+.card_info{
+  color: #993399;
+}
+.card-deck{
+  margin-right: 0px;
+margin-left: 0px;
+font-family: 'Crimson Text', serif;
+color: #993399;
+}
+.card{
+  transition: all .2s ease-in-out;
+  color: #993399;
+}
+.card:hover{
+  transform: scale(1.1);
+}
+.card-title{
+  font-weight: bold;
+  text-align: center;
+  color: #993399;
+}
+.card-text{
+  color: #993399;
+}
+.vikas-khanna {
+   box-shadow: 10px 10px 8px #888888;
+   position: absolute;
+   right:0px;
+   margin-right: 30px;
+}
+.vikas-khanna-text{
+
+  font-family: 'Merienda', cursive;
+
+  font-weight: bolder;
+  font-size: 20px;
+  position: absolute;
+  z-index: 2;
+  margin-left: 30px;
+  background-color: #edf6f9 ;
+  border-radius: 15px;
+  margin-left: 20px;
+  color:#b61547 ;
+  padding: 10px;
+  box-shadow: 8px 8px 6px #F9F6F6;
+}
+.redwine{
+  height: 100px;
+  width: 150px;
+  float: right;
+}
+.contact-us-name{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 50px;
+  color: #722F37;
+  float: right;
+}
+.contact-us-address{
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 22px;
+  color: #b61547;
+  float: right;
+}
+.bottom-text{
+  margin: 0px 40px 0px 40px;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 22px;
+  color: #993399;
+  text-align: center;
+}
